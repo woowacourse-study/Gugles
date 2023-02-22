@@ -1,5 +1,9 @@
-# Gugles
+# 꾸글쓰
 꾸준히 글쓰는 크루들 모임
+
+## 꾸글쓰 미션 트래커
+
+[꾸글쓰 미션트래커](https://docs.google.com/spreadsheets/d/1mSuoPCjmRDDZ5ouNucHRO5eZmderAjGxc_LU81cPb3c/edit?usp=sharing)
 
 ## 운영계획
 
