@@ -4,6 +4,7 @@
 ## 꾸글쓰 미션 트래커
 
 [꾸글쓰 미션트래커 시트](https://docs.google.com/spreadsheets/d/1mSuoPCjmRDDZ5ouNucHRO5eZmderAjGxc_LU81cPb3c/edit?usp=sharing)
+
 [꾸글쓰 미션트래커 자동화 툴](https://github.com/echo724/gugles_mission_tracker/tree/main)
 
 ## 운영계획
