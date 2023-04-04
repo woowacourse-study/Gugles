@@ -1,6 +1,8 @@
 # 꾸글쓰
 꾸준히 글쓰는 크루들 모임
 
+[글 모음(디스커션)](https://github.com/woowacourse-study/Gugles/discussions)
+
 ## 꾸글쓰 미션 트래커
 
 [꾸글쓰 미션트래커 시트](https://docs.google.com/spreadsheets/d/1mSuoPCjmRDDZ5ouNucHRO5eZmderAjGxc_LU81cPb3c/edit?usp=sharing)
